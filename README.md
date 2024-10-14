@@ -4,4 +4,3 @@
 - Bližnjica za kopiranje: Ctrl + C
 
 
-Dopolni README
